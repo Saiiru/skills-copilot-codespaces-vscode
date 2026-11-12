@@ -35,3 +35,14 @@ Material do GitHub Skills; nome real preservado para não afetar o treinamento. 
 **Ainda não é:** sistema integrado à KORA, serviço em produção ou prova de maturidade sem testes.
 
 [Voltar ao portfólio SAIRU/BLACKSITE](https://saiiru.github.io/#projetos-independentes)
+
+
+## Verificação de funcionamento — 12/11/2026
+
+**Estado confirmado:** Template GitHub Skills preservado
+
+**Evidência:** README, licença e workflows existentes; sem executável próprio
+
+**Limites e bloqueios:** Workflows de treinamento de terceiro; nenhuma plataforma adicional será instalada.
+
+Esta validação não implica integração à KORA nem certificação de produção. Não alterar histórico, licença e autoria dos tutoriais.
